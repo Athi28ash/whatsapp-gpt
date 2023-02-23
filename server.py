@@ -1,4 +1,4 @@
-"""Make some requests to OpenAI's chatbot"""
+"is"python server.py"Make some requests to OpenAI's chatbot"""
 
 import time
 import os 
